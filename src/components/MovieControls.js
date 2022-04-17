@@ -8,7 +8,7 @@ const MovieControls = ({ movie, type }) => {
       {type === "watchlist" && (
         <>
           <button className="ctrl-btn">
-            <i className="fa-fw far fa-eye"></i>
+            <i className="fa-fw far    fa-eye"></i>
           </button>
           <button
             className="ctrl-btn"
